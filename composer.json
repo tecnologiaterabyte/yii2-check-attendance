@@ -1,0 +1,21 @@
+{
+    "name": "tecnologiaterabyte/yii2-check-attendance",
+    "description": "Time & Attendance Extension",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ing. Wilmer Arambula",
+            "email": "tecnologiaterabyte@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "terabyte\\checktime\\": ""
+        }
+    }
+}
